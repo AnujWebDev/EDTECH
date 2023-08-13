@@ -1,0 +1,28 @@
+.icons1{
+    margin: 5px;
+    color: #fff;
+    margin: 10px;
+  }
+  .icons:hover{
+    color:#3288e3;
+  }
+  .sh1{
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'DM Serif Display', serif;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .sp1{
+    font-size: 13px;
+    font-family: 'DM Serif Display', serif;
+    color: #fff;
+    text-align: center;
+  }
+  .sp1:hover{
+    color: #3288e3;
+    cursor: pointer;
+  }
